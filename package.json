@@ -2,7 +2,7 @@
   "name": "templete",
   "version": "0.1.0",
   "private": true,
-  // "homepage": "https://gytjq456.github.io/habit_tracker/",
+  "homepage": "https://gytjq456.github.io/habit_tracker/",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.15.4",
     "@testing-library/jest-dom": "^5.14.1",
